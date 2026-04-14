@@ -20,7 +20,7 @@ lang: en
 
 theme_mode: # blank = follows system dark/light
 
-avatar: /assets/img/avatar.jpg
+avatar:
 
 toc: true
 read_time: true
